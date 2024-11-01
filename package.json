@@ -1,0 +1,25 @@
+{
+  "name": "learning",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trung269github/Express-learning.git"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "trung",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
